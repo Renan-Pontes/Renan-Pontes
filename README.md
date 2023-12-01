@@ -13,18 +13,36 @@
  
  </div>
  
-<div align="center"> 
-  <a href="mailto:pontesrenan357@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-</div>
+
+<a href="https://www.youtube.com/channel/UCYScuuI3Ov2-TOJLleph9eA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/renan.pontes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:pontesrenan357@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/repontes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.tiktok.com/@hackyrinth" target="_blank"><img src="https://img.shields.io/badge/-TikTok-%23333?style=for-the-badge&logo=TikTok&logoColor=lack" target="_blank"></a> 
 
  <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=" />
-    <img src="https://skillicons.dev/icons?i=" /><br>
+    <img src="https://skillicons.dev/icons?i=aws" />
+    <img src="https://skillicons.dev/icons?i=react"/>
+    <img src="https://skillicons.dev/icons?i=discord"/>
+    <img src="https://skillicons.dev/icons?i=python"/>
+    <img src="https://skillicons.dev/icons?i=django"/>
+    <img src="https://skillicons.dev/icons?i=git"/>
+    <img src="https://skillicons.dev/icons?i=github"/>
+    <img src="https://skillicons.dev/icons?i=js"/>
+    <img src="https://skillicons.dev/icons?i=linux"/>
+    <img src="https://skillicons.dev/icons?i=vscode"/>
+    <img src="https://skillicons.dev/icons?i=react"/>
+    <img src="https://skillicons.dev/icons?i=vite"/>
+    <img src="https://skillicons.dev/icons?i=html"/>
+    <img src="https://skillicons.dev/icons?i=css"/>
+    <img src="https://skillicons.dev/icons?i=tailwind"/>
+    <img src="https://skillicons.dev/icons?i=c"/>
+    <img src="https://skillicons.dev/icons?i=figma"/>
+
 </div>
 
 <br/>
@@ -43,6 +61,9 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
+    
+[![Renan Pontes's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Renan-Pontes\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
+[![Renan Pontes's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Renan-Pontes\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-light-mode-only)
 
 </div>
 
