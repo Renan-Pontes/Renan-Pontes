@@ -49,7 +49,8 @@ I'm a developer from Brazil interested in technology and information security. T
 ## ⚡ Stats
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats#responsive-card-theme">
-    <img src="https://github-readme-stats.vercel.app/api?username=Renan-Pontes&show_icons=true&theme=default" alt="GitHub Stats" />
+      <img height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=Renan-Pontes&theme=dark"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=Renan-Pontes&show_icons=true&theme=dark" alt="GitHub Stats" />
   </a>
 </div>
 
