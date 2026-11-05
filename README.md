@@ -21,7 +21,7 @@
 <p align="center"><img src="assets/sections/sobre.svg" width="100%" alt="Sobre mim · About me" /></p>
 
 <p align="center">
-  <img src="assets/terminal.svg" width="100%" alt="renan@request:~$ whoami — Renan Pontes, CEO & Founder @ Request.Coffee. Base: São Paulo, Brasil. Trajetória: Forense Digital → Engenharia de Software → Inteligência → CEO. Foco: Ethical Hacking, DFIR, OSINT, Secure Software, IA. Estudando: Engenharia de Software @ FIAP, Ciência da Computação @ Cruzeiro do Sul. Idiomas: Português, English." />
+  <img src="assets/terminal.svg" width="100%" alt="renan@request:~$ whoami — Renan Pontes, CEO & Founder @ Request.Coffee. Base: São Paulo, Brasil. Trajetória: Forense Digital → Engenharia de Software → Inteligência → CEO. Foco: Ethical Hacking, DFIR, OSINT, Secure Software, IA. Estudando: Engenharia de Software @ Cruzeiro do Sul, Ciência da Computação @ Cruzeiro do Sul. Idiomas: Português, English." />
 </p>
 
 **🇧🇷** Da investigação forense ao desenvolvimento de soluções de defesa: minha trajetória é pautada por **antecipar ameaças antes que elas virem incidentes**. Comecei liderando investigações de intrusão, recuperação pós-ransomware e resposta a vazamentos de dados. Levei essa bagagem para a engenharia de software, automatizando detecção de ameaças com Python e AWS. Hoje, como **CEO da [Request.Coffee](https://request.coffee)**, uno a mentalidade ofensiva do Ethical Hacking ao rigor da Engenharia de Software para entregar resiliência cibernética de verdade.
